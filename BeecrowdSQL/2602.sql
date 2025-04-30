@@ -10,6 +10,16 @@ Costumers
 | 4  | Jane Ester                | Av 7 de setembro	        | Erechim         | RS    | 800,00       |
 | 5  | Marcos Antônio dos Santos | Av Farrapos              | Porto Alegre    | RS    | 4250,25      |
 
+
+| ID | Produto          | Quantidade | Preço   | Fornecedor         | Categoria  |
+|----|------------------|------------|---------|--------------------|------------|
+| 1  | Two-door wardrobe| 100        | 800.00  | Francisco Accerr   | wood       |
+| 2  | Dining table     | 1000       | 560.00  | Henrique           | super luxury |
+| 3  | Towel holder     | 10000      | 25.50   | Isabela Moraes     | old stock  |
+| 4  | Computer desk    | 350        | 320.50  | Guilerme Staff     | executive  |
+| 5  | Chair            | 3000       | 210.64  | Caroline Silva     | executive  |
+| 6  | Single bed       | 750        | 460.00  | Henrique           | new stock  |
+
 Exemplo de Saída
 | name                      | 
 |---------------------------|
