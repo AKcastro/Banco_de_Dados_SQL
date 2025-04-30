@@ -1,0 +1,46 @@
+## Introdução ao SQL: SELECT, FROM, WHERE
+
+### Objetivo:
+Aprender os comandos mais básicos para consultar dados de um banco de dados relacional.
+
+### Conceitos Rápidos:
+
+- SQL (Structured Query Language) é a linguagem usada para consultar e manipular bancos de dados relacionais.
+- A estrutura básica de uma consulta SQL é:
+
+```sql
+SELECT coluna1, coluna2
+FROM nome_da_tabela
+WHERE condição;
+```
+
+
+### Exemplos de Consultas
+
+#### Selecionar todos os dados da tabela:
+```sql
+SELECT * FROM clientes;
+```
+
+#### Selecionar colunas específicas:
+```sql
+SELECT nome, cidade FROM clientes;
+```
+
+#### Filtrar com WHERE:
+```sql
+SELECT * FROM clientes
+WHERE cidade = 'São Paulo';
+```
+
+#### Filtrar com operadores:
+```sql
+SELECT * FROM clientes
+WHERE idade > 25;
+```
+
+#### Combinar condições:
+```sql
+SELECT * FROM clientes
+WHERE cidade = 'São Paulo' AND idade < 35;
+```
