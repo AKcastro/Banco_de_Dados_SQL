@@ -1,4 +1,4 @@
-Seu chefe precisa que você exiba o código e o nome dos produtos, cuja categoria inicie com 'super'.
+-- Seu chefe precisa que você exiba o código e o nome dos produtos, cuja categoria inicie com 'super'.
 
 products
 | ID | Name               | Amount | Price  | Id_categories |
