@@ -1,4 +1,4 @@
-Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código da categoria é 6.
+-- Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código da categoria é 6.
 
 products
 | ID | Name             | Amount | Price   | Id_providers | Id_categories |
