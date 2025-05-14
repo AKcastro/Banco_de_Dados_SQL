@@ -1,5 +1,5 @@
-Faça uma consulta no Banco de Dados que retorne todas as cidades dos fornecedores, mas em ordem alfabética.
-OBS: Você não deve mostrar cidades repetidas.
+-- Faça uma consulta no Banco de Dados que retorne todas as cidades dos fornecedores, mas em ordem alfabética.
+-- OBS: Você não deve mostrar cidades repetidas.
 
 providers
 | ID | Name             | Street         | City           | State | 
